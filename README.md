@@ -12,4 +12,4 @@ Python "Hello World"
 Erwartungswert beim Werfen von 6 Würfeln experimentell ermitteln.
 
 ## roulette.py
-Gewinnchances beim Roulette experimentell überprüfen. 
+Gewinnchancen beim Roulette experimentell überprüfen. 
